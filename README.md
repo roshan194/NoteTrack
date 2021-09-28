@@ -22,13 +22,12 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 ### Screenshots
 ![KeeperAppScreenshot](https://user-images.githubusercontent.com/67170897/135128596-f92d5036-cfd9-4953-aa21-fb0f09397e84.PNG)
 ![KeeperAppScreenshot2](https://user-images.githubusercontent.com/67170897/135128616-fa8f3180-9118-4647-a368-d5916955e5a9.PNG)
-)
 
 
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/keeper-app](https://github.com/fotinh0/keeper-app)
-- Live Site URL: []()
+- Live Site URL: [https://fotinh0.github.io/keeper-app/](https://fotinh0.github.io/keeper-app/)
 
 ## My Process
 ### Built with
