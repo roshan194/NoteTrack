@@ -27,7 +27,7 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 ### Links
 
 - Solution URL: [https://github.com/fotinh0/keeper-app](https://github.com/fotinh0/keeper-app)
-- Live Site URL: [https://fotinh0.github.io/keeper-app/](https://fotinh0.github.io/keeper-app/)
+- Live Site URL: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4f81921-d934-4e10-aa92-2b4334da5815/deploy-status)](https://app.netlify.com/sites/keeper-app-fc/deploys)
 
 ## My Process
 ### Built with
