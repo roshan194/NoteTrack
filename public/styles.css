@@ -80,7 +80,7 @@ form.create-note {
 }
 form.create-note input,
 form.create-note textarea {
-  width: 100%;
+  width: 80%;
   border: none;
   padding: 4px;
   outline: none;
@@ -103,3 +103,8 @@ form.create-note button {
   outline: none;
 }
 
+@media (max-width : 480px) {
+  form.create-note {
+    width: 80%;
+  }
+}
