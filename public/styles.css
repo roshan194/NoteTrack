@@ -107,4 +107,7 @@ form.create-note button {
   form.create-note {
     width: 80%;
   }
+  header h1{
+    text-align: center;
+  }
 }
