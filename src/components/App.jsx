@@ -5,14 +5,17 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 
 function App() {
+  // Declare state variable for notes
   const [notes, setNotes] = useState([]);
 
+  // Add new note to the list
   function addNote(newNote) {
     setNotes(prevNotes => {
       return [...prevNotes, newNote];
     });
   }
 
+  // Delete note function
   function deleteNote(id) {
     setNotes(prevNotes => {
       return prevNotes.filter((noteItem, index) => {

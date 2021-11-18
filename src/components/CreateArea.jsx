@@ -4,13 +4,16 @@ import Fab from "@material-ui/core/Fab";
 import Zoom from "@material-ui/core/Zoom";
 
 function CreateArea(props) {
+  // Declare state variable for expanding input component
   const [isExpanded, setExpanded] = useState(false);
 
+  // Declare state variable for note entered by user
   const [note, setNote] = useState({
     title: "",
     content: ""
   });
 
+  // Update note to user input 
   function handleChange(event) {
     const { name, value } = event.target;
 
@@ -22,6 +25,7 @@ function CreateArea(props) {
     });
   }
 
+  // Submit note entered by user
   function submitNote(event) {
     props.onAdd(note);
     setNote({
@@ -31,6 +35,7 @@ function CreateArea(props) {
     event.preventDefault();
   }
 
+  // Expand note card
   function expand() {
     setExpanded(true);
   }

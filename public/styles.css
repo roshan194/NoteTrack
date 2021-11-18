@@ -1,3 +1,4 @@
+/***********DEFAULT STYLING**********/
 * {
   padding: 0;
   margin: 0;
@@ -6,6 +7,8 @@
 html {
   font-family: "Montserrat", sans-serif;
 }
+
+/* ***********TAG SELECTORS************* */
 body {
   background: #faf5e6;
   background-image: url("https://www.transparenttextures.com/patterns/checkered-pattern.png");
@@ -36,6 +39,8 @@ footer {
 footer p {
   color: #ccc;
 }
+
+/* ***********CLASS SELECTORS************* */
 .note {
   background: #fff;
   border-radius: 7px;
@@ -103,6 +108,7 @@ form.create-note button {
   outline: none;
 }
 
+/**************MEDIA QUERIES*********************/
 @media (max-width : 480px) {
   form.create-note {
     width: 80%;
