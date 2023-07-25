@@ -40,9 +40,3 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 - [Material UI](https://mui.com/)
 
 - [reactjs.org](https://reactjs.org/docs/getting-started.html)
-
-## Author
-
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
-- Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
-- LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
